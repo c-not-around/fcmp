@@ -4,7 +4,7 @@ Utility for byte-by-byte file comparison
 
 ## Usage
 
-Ñompare two files: `path\to\file1.ext` and `path\to\file2.ext`
+Compare two files: `path\to\file1.ext` and `path\to\file2.ext`
 
 ```
 fcmp.exe "path\to\file1.ext" "path\to\file2.ext"
